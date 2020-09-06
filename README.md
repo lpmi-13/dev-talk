@@ -12,6 +12,8 @@ We need both transcripts and audio (for the force alignment to create audio mate
 
 some of the episodes have transcripts...investigating how easily otter.ai can create audio transcripts
 
+answer: the generated transcripts are usable, but we only get 600 minutes free per month, and each episode is about 60 minutes, so that's only 10 episodes...will probably grab the low-hanging fruit first
+
 - Software Engineering Daily
 (https://softwareengineeringdaily.com/2017/04/21/21-with-balaji-srinivasan/)
 
